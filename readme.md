@@ -2,11 +2,9 @@
 
 A two-day event fostering collaboration and innovation among early-career researchers across Latin America.
 
-<img width="3024" height="1714" alt="image" src="https://github.com/user-attachments/assets/b4c89efc-78a3-4c14-a5d8-4f8fd7b5ba25" />
-
-## About
-
 Empowering emerging researchers through academic exchange, international perspectives, and collaborative networks in management, artificial intelligence, and entrepreneurship.
+
+<img width="3024" height="1714" alt="image" src="https://github.com/user-attachments/assets/b4c89efc-78a3-4c14-a5d8-4f8fd7b5ba25" />
 
 ## Schedule
 
@@ -46,7 +44,3 @@ Empowering emerging researchers through academic exchange, international perspec
 ## Partners
 
 UCSC · USACH · UAI · FIU
-
----
-
-*Inspiring Future Scientists*
